@@ -1,9 +1,9 @@
 ### hi!
 
- 🧲 currently working on magnets at Uni Duisburg-Essen
+ 🧲 currently exploring magnets by x-rays at Uni Duisburg-Essen
  
  🐍 learning python and data science
  
- 📉 interested in finance
+ ⚡️ interested in the future of finance
  
- 📫 hi@gnzng.me
+ 📫 say hi@gnzng.me
