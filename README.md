@@ -1,6 +1,6 @@
 ### hi!
 
- 🧲 currently exploring magnets by x-rays at Uni Duisburg-Essen
+ 🔬 building a lensless x-ray microscope at Advanced Light Source
  
  🐍 learning python and data science
  
